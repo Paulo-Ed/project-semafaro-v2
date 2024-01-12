@@ -51,8 +51,23 @@
     border: solid 5px gray;
     margin: 30px;
     margin-bottom:15%;
-    --size: 10px;
+    
+}
+
+.background-contagem {
+--size: 10px;
     background-image: radial-gradient(circle, #151515 0%, #151515 15%, transparent 15%, transparent 100%),
     radial-gradient(circle, #151515 0%, #151515 15%, transparent 15%, transparent 100%);
     background-size: var(--size) var(--size);
 }
+
+.texto {
+    font-size: 280px;
+    width: 290px;
+    height: 290px;
+    color: rgba(21, 21, 21, 0.5);
+    position:absolute;
+    bottom: 5%;
+    margin: 0; 
+}
+
