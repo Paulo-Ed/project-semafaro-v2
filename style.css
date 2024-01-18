@@ -51,7 +51,6 @@
     border: solid 5px gray;
     margin: 30px;
     margin-bottom:15%;
-    
 }
 
 .background-contagem {
@@ -62,12 +61,11 @@
 }
 
 .texto {
-    font-size: 280px;
-    width: 290px;
-    height: 290px;
+    font-family: "Play", sans-serif;
+    font-size: 200px; 
+    text-align: center;
     color: rgba(21, 21, 21, 0.5);
     position:absolute;
-    bottom: 5%;
-    margin: 0; 
+    margin: 10%;
 }
 
